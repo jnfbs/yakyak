@@ -1,2 +1,2 @@
 # yakyak
-Random stuff to hone git skills.
+Random stuff to hone * skills.
